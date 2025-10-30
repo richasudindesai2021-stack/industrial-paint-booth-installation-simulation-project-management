@@ -51,11 +51,8 @@ Smartsheet · Excel · Python (Monte Carlo) · Project Risk Analysis · EVM · C
 ---
 
 ## 📈 Results
-- Completed on **Nov 27, 2025**, within 2.5-week variance.  
+- Completed on **Oct 6, 2025**, within 2.5-week variance.  
 - Achieved **budget control within 2%** and **schedule control within 5%**.  
 - Delivered **data-driven recommendations** for regulatory adaptation and contingency management.
 
----
 
-## License
-MIT License © 2025 Richa S. Desai
